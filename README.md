@@ -1,1 +1,0 @@
-# Delayed-Close-About-Blank
